@@ -1,5 +1,5 @@
 {
-  "name": "meet",
+  "name": "meet-landing",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {},
@@ -9,7 +9,7 @@
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
-  "author": "Ryan Sheehan",
+  "author": "Alexis",
   "license": "ISC",
   "description": ""
 }
